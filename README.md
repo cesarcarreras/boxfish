@@ -14,7 +14,7 @@ Axios se puede encontrar en src/services la cual llama por API a IPregistry y en
 
 Para iniciar puedes clonar el repositorio:
    ```sh
-   git clone https://github.com/cesarcarreras/amira-front.git
+   git clone https://github.com/cesarcarreras/boxfish
    ```
 Instalar paquetes NPM: 
 
